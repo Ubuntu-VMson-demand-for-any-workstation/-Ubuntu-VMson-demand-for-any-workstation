@@ -1,4 +1,4 @@
-# -Ubuntu-VMson-demand-for-any-workstation
+# Ubuntu-VMson-demand-for-any-workstation
 https://assets.ubuntu.com/v1/f401c3f4-Ubuntu_Server_CLI_pro_tips_2020-04.pdf?_ga=2.83651030.1946703254.1635890714-2008591924.1635890714
 https://ubuntu.com/download/server
 https://ubuntu.com/appliance/plex
